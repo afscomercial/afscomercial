@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andres Salguero</h1>
 <h3 align="center">FULL-STACK JS REACT NODE WEB-MOBILE DAPP DEVELOPER</h3>
 
-- 🔭 I’m currently working on [sollvi](https://github.com/afscomercial/sollvi)
-
 - 📫 How to reach me **afscomercial@gmail.com**
 
 - ⚡ Fun fact **coding is my passion**
